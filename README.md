@@ -1,12 +1,12 @@
-CID_547_Athena_Commando_F_Meteorwoman, 2500
-EID_LetsBegin_Beyond, 2000
+CID_761_Athena_Commando_M_CycloneSpace, 2000
+CID_639_Athena_Commando_F_NeonAnimal, 1300
+Pickaxe_ID_316_BigChuggus, 500
 na
 na
 na
-na
-CID_027_Athena_Commando_F, 1200
-Pickaxe_ID_224_Butterfly, 500
-EID_KEagle, 500
+CID_613_Athena_Commando_M_Columbus_7Y4QE, 1200
+MusicPack_029_Wiggle, 200
+EID_HipToBeSquare, 500
 EID_Everytime, 700
-CID_356_Athena_Commando_F_Farmer, 800
-Glider_ID_118_Squishy, 300
+Glider_Venom, 500
+EID_Cyclone, 100
