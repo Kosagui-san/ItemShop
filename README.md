@@ -1,6 +1,6 @@
-CID_761_Athena_Commando_M_CycloneSpace, 2000
-CID_688_Athena_Commando_F_AgentRogue, 2000
-CID_613_Athena_Commando_M_Columbus_7Y4QE
+CID_761_Athena_Commando_M_CycloneSpace, 2200
+CID_206_Athena_Commando_M_Bling, 2000
+CID_613_Athena_Commando_M_Columbus_7Y4QE, 2000
 na
 na
 na
