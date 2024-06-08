@@ -1,5 +1,5 @@
 CID_761_Athena_Commando_M_CycloneSpace, 2000
-CID_688_Athena_Commando_F_AgentRogue, 1200
+CID_688_Athena_Commando_F_AgentRogue, 2000
 CID_613_Athena_Commando_M_Columbus_7Y4QE
 na
 na
