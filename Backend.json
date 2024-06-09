@@ -26,7 +26,7 @@
     },
     "daily5": {
         "itemGrants": [
-            "AthenaCharacter:CID_567_Athena_Commando_F_RebirthMedic"
+            "CID_726_Athena_Commando_M_TargetPractice"
         ],
         "price": 1200
     },
