@@ -14,13 +14,13 @@
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:OG_RunningMan"
+            "AthenaDance:EID_HotStuff"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_Cyclone"
+            "AthenaDance:EID_CycloneHeadBang"
         ],
         "price": 0
     },
@@ -38,20 +38,20 @@
     },
     "featured1": {
         "itemGrants": [
-            "CID_613_Athena_Commando_M_Columbus_7Y4QE"
+            "CID_315_Athena_Commando_M_TeriyakiFish"
         ],
         "price": 1300
     },
     "featured2": {
         "itemGrants": [
-            "CID_761_Athena_Commando_M_CycloneSpace"
+            "CID_515_Athena_Commando_M_BarbequeLarry"
         ],
-        "price": 2200
+        "price": 2000
     }
   },
     "featured3": {
         "itemGrants": [
-            "CID_206_Athena_Commando_M_Bling"
+            "CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         ],
         "price": 2000
     }
